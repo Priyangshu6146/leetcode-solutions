@@ -1,16 +1,17 @@
 var isPalindrome = function (x) {
-    let demo = x + "";
+    let original = x + "";
     let reverced = [];
-    for (let i = demo.length - 1; i >= 0; i--) {
-        reverced.push(demo[i]);
+    for (let i = 0; i < original.length; i++) {
+        let j = original.length - i - 1;
+        reverced.push(original[j]);
 
     }
     reverced = reverced.join("");
-
-    if (demo === reverced) {
+    if (original === reverced) {
         return true;
     } else {
         return false;
     }
-};
+}
+
 isPalindrome(121)

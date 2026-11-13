@@ -2,13 +2,12 @@ import java.util.*;
 class Solution {
     public static int numberOfSteps(int num) {
         int count=0;
-        int i=num;
-        while(i>0){
-               if(i%2==0){
-i=i/2;
+        while(num>0){
+               if(num%2==0){
+num=num/2;
 count=count+1;
             }else {
-i=i-1;
+num=num-1;
 count=count+1;
             }
         }

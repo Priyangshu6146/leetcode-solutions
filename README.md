@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyangshu6146/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/Priyangshu6146/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Priyangshu6146/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Priyangshu6146/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Priyangshu6146/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

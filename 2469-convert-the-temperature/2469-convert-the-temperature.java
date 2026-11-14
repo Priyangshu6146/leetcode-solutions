@@ -11,7 +11,7 @@ class Solution {
         System.out.print("celsius=");
         double celsius=sc.nextDouble();
         double output[]=convertTemperature(celsius);
-        System.out.print(output);
+        Arrays.toString(output);
         sc.close();
     }
 }
